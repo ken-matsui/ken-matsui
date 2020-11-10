@@ -12,5 +12,5 @@
 ### My links
 
 * [![Medium](https://img.icons8.com/ios/27/000000/medium-logo.png)@matken.jp](https://medium.com/@matken.jp)
-* [![LinkedIn](https://img.icons8.com/ios/27/000000/linkedin-2.png)@matken](https://www.linkedin.com/in/matken)
+* [![LinkedIn](https://img.icons8.com/ios/27/000000/linkedin-2.png)@kenmatsui](https://www.linkedin.com/in/kenmatsui)
 * [![Facebook](https://img.icons8.com/ios/27/000000/facebook-new.png)@ken.matsuii](https://www.facebook.com/ken.matsuii)
