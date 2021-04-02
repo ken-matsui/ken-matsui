@@ -19,12 +19,12 @@
 </p>
 
 <p align="center">
-  <!-- Top Langs -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-matsui&theme=dark&layout=compact">
-  </a>
   <!-- Ken Matsui's github stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ken-matsui&theme=dark&show_icons=true&include_all_commits=true">
+  </a>
+  <!-- Top Langs -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-matsui&theme=dark&layout=compact">
   </a>
 </p>
